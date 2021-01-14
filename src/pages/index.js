@@ -10,6 +10,9 @@ import Projects from '../components/projects.js';
 import AboutMe from '../components/aboutMe.js'
 import Nav from '../components/nav.js';
 // styles
+
+import '../scss/style.css';
+
 // markup
 // <BrowserRouter>
 // <Header />
