@@ -548,6 +548,8 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
 
 #detail-slider {
   margin-top: 50px;
+  max-width: 100%;
+  max-height: 100%;
 }
 
 /*
